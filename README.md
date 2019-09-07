@@ -1,1 +1,2 @@
 Golden Truly Hotel
+
