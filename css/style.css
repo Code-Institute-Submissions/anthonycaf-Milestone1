@@ -28,7 +28,7 @@ padding: 0;
  }
 .bg-master-room2 {
   background-image: url(../images/master1.jpg);
-  background-clip: content-box;
+  background-clip: border-box;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -37,7 +37,7 @@ padding: 0;
 }
 .bg-master-room3 {
  background-image: url(../images/housekeeping.jpg);
-background-clip: content-box;
+background-clip: border-box;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
