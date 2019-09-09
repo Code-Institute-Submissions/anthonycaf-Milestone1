@@ -17,6 +17,32 @@ padding: 0;
     padding-top: 10px;
    
  }
+ .bg-master-room1 {
+  background-image: url(../images/design-lobby-ceiling.jpg);
+  background-clip: border-box;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  width: 33.3%;
+  height: 150px;
+ }
+.bg-master-room2 {
+  background-image: url(../images/hotel-building.jpg);
+  background-clip: content-box;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-master-room3 {
+ background-image: url(../images/design-lobby-ceiling.jpg);
+background-clip: content-box;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  width: 33.3%;
+  height: 150px;
+} 
+   
  
  .bg-image-title {
    background: url("../images/golden-truly-hotel.jpg");
@@ -41,7 +67,7 @@ padding: 0;
  #welcome {
    color: #fdb517;
      font-family: "Great Vibes",sans-serif;
-     font-size: 3em;}
+     font-size: 2.5em;}
    .section {
     margin: 0 auto;
    } 
