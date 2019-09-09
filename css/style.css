@@ -17,34 +17,6 @@ padding: 0;
     padding-top: 10px;
    
  }
- .bg-master-room1 {
-  background-image: url(../images/design-lobby-ceiling.jpg);
-  background-clip: border-box;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  width: 33.3%;
-  height: 150px;
- }
-.bg-master-room2 {
-  background-image: url(../images/master1.jpg);
-  background-clip: border-box;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-     width: 33.3%;
-   height: 150px;
-}
-.bg-master-room3 {
- background-image: url(../images/housekeeping.jpg);
-background-clip: border-box;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  width: 33.3%;
-  height: 150px;
-} 
-   
  
  .bg-image-title {
    background: url("../images/golden-truly-hotel.jpg");
@@ -76,14 +48,11 @@ background-clip: border-box;
  
   /*-----------main nav-bar----------*/
   .nav-bar {
-   position: fixed;
    top: 0;
    left: 0;
    right: 0;
    background-color: #000000; 
-  
   }
- 
   .nav-bar-menu {
    width: 100%;
    list-style: none;
@@ -160,6 +129,35 @@ iframe {
 #footer-details {
     padding:20px;
 }
+/*-----------hotel.html----------*/
+.bg-img-size {
+  background-clip: border-box;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  width: 33.3%;
+  height: 150px;
+} 
+
+.master-img1 {
+ background-image: url(../images/master1.jpg);
+}
+.master-img2 {
+  background-image: url(../images/housekeeping.jpg);
+}
+.master-img3 {
+  background-image: url(../images/design-lobby-ceiling.jpg);
+}
+.suite-img1 {
+ background-image: url(../images/suit1.jpg);
+}
+.suite-img2 {
+ background-image: url(../images/suite2.jpg);
+}
+.suite-img3 {
+ background-image: url(../images/suite3.jpg);
+}
+
 /*   contact.html/form    */
 .contact-heading, .contact-thanks {
     font-family: "Great Vibes", sans-serif;
