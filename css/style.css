@@ -3,24 +3,25 @@
 @import url('https://fonts.googleapis.com/css?family=Exo:100,200,300,400,500,600,700|Great+Vibes&display=swap:100,200,300,400,500,600,700');
 
 body {
- width: 100;
-height: 100;
 margin:0;
 padding: 0;
 }
  /*------------main----------*/
- .main {
-  
+ main {
      font-family: "Exo",sans-serif;
      font-size: 1.2em;
      width: 100%;
+     background-color:
+     #000000;
      color: #fdb517;
+    padding-top: 10px;
+   
  }
  
  .bg-image-title {
    background: url("../images/golden-truly-hotel.jpg");
     background-clip: border-box;
-     background-position: center;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     transition: all .5s ease-in-out;
@@ -31,11 +32,20 @@ padding: 0;
      border-radius: 12px
  }
  #title {
+  color: #fdb517;
      font-family: "Great Vibes",sans-serif;
      font-size: 3em;
      text-align: center;
      padding-top: 150px;
  }
+ #welcome {
+   color: #fdb517;
+     font-family: "Great Vibes",sans-serif;
+     font-size: 3em;}
+   .section {
+    margin: 0 auto;
+   } 
+ 
   /*-----------main nav-bar----------*/
   .nav-bar {
    position: fixed;
@@ -49,21 +59,40 @@ padding: 0;
  
   .nav-bar-menu {
    width: 100%;
+   list-style: none;
    text-align: center;
-   margin-right: 0;
-   
+ padding: 0;
+  
   }
   .nav-bar-item a {
+   font-size: 1em;
+   text-align: center;
    color: #fdb517;
     text-decoration: none;
     height: 120px;
      width: 100%;
-  } 
+  }
+  .nav-bar-item a:hover {
+   border-radius: 20px;
+   background-color: #fdb517;
+   color: #000000;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+  }
   .nav-bar-item {
-    margin: 20px;
+   width: 25%;
   display: inline-block;
- }
 
+ }
+ 
+iframe {
+ width: 100%;
+ height: 360px;
+ border: none;
+ margin: 0;
+}
  /*-----------main footer----------*/
  
  .container-fluid {
@@ -77,6 +106,7 @@ padding: 0;
     color: #fafafa;
     min-height: 120px;
     margin: 0;
+    padding: 0;
 }
 
 .social-links {
@@ -103,7 +133,7 @@ padding: 0;
 #footer-details {
     padding:20px;
 }
-/*   form    */
+/*   contact.html/form    */
 .contact-heading, .contact-thanks {
     font-family: "Great Vibes", sans-serif;
     font-weight: 300;
@@ -112,6 +142,7 @@ padding: 0;
     
 }
 form {
+
     padding-top: 10px;
     margin: 0 auto;
     max-width: 70%;
