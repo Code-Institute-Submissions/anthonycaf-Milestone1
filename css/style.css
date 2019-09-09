@@ -27,14 +27,16 @@ padding: 0;
   height: 150px;
  }
 .bg-master-room2 {
-  background-image: url(../images/hotel-building.jpg);
+  background-image: url(../images/master1.jpg);
   background-clip: content-box;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+     width: 33.3%;
+   height: 150px;
 }
 .bg-master-room3 {
- background-image: url(../images/design-lobby-ceiling.jpg);
+ background-image: url(../images/housekeeping.jpg);
 background-clip: content-box;
     background-position: center;
     background-repeat: no-repeat;
@@ -54,8 +56,8 @@ background-clip: content-box;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
      height: 360px;
-     border: 1px solid;
-     border-radius: 12px
+     border: 2px solid;
+    
  }
  #title {
   color: #fdb517;
@@ -79,8 +81,7 @@ background-clip: content-box;
    left: 0;
    right: 0;
    background-color: #000000; 
-   border-bottom-left-radius: 4px;
-   border-bottom-right-radius: 4px;
+  
   }
  
   .nav-bar-menu {
