@@ -79,13 +79,17 @@
  .dl-list {
   max-width: 70%;
  }
-
+/*------------ Section ------*/
  .section {
   padding-top: 10px;
   padding-bottom: 10px;
   margin: 0 auto;
   max-width: 70%;
  }
+ .casino, .fusion {
+  margin-bottom: 0;
+ }
+
 
  /*-----------main nav-bar----------*/
 
