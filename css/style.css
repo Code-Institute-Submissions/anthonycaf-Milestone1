@@ -35,6 +35,15 @@
  .bg-image-title {
   background: url("../images/golden-truly-hotel.jpg");
  }
+ .amenities-img1 {
+  background-image: url(../images/pool.jpg);
+ }
+  .amenities-img2 {
+  background-image: url(../images/gym.jpg);
+ }
+  .amenities-img3 {
+  background-image: url(../images/sun-terrace.jpg);
+ }
  /*-------------------food-images -----------*/
  .bg-food-img1 {
   background-image: url("../images/beef-bowl.jpg");
@@ -227,6 +236,18 @@
  }
 
  /*-----------hotel.html----------*/
+.heading-hotel-item {
+ font-family: "Great Vibes", sans-serif;
+ font-size: 1.8em;
+}
+.hotel-title {
+  color: #fdb517;
+  font-family: "Great Vibes", sans-serif;
+   font-size: 3.3em;
+  text-align: center;
+  padding-top: 150px;
+
+}
 
  .bg-img-size {
 
