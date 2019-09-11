@@ -16,19 +16,21 @@ now I waiting for there approval for the font of the website, it they want to us
 
 ## 
 **sales pitch**
-Here by I provide a good working website that forfill your needs if you need a hotel in surinam.
-It is located in the main capital and close by the city center.
-On this site, you will find all the information needed about this hotel and their entertainment.
-And with a good website you will get people that are commited to a good looking hotel, and there services.
+
+Here by I provide a good working website that forfill your needs if you need a hotel in surinam.  
+It is located in the main capital and close by the city center.  
+On this site, you will find all the information needed about this hotel and their entertainment.  
+And with a good website you will get people that are commited to a good looking hotel, and there services.  
 
 ## 
 **UX**
-With this website I want to promote the hotel and its business and there other accomodation.
-The best way to do this was by making a beter overview and layouts. Placing more pictures.
-Creating a comfortable homepage what is warm welcome for the reader. The ease of making a reservation on the website makes is more atractive for guest to make a reservation.
-By seeing what the hotel has more to offer in there accomodation, seeing the inside of the hotel, restaurant, casino and pool makes it more interesting to see it. 
-Knowing more about there services is a good promotion for the business.
-And making the website mobile first approach, so that people can look it up on there phone, that is what attracts people to keep looking at the website.
+
+With this website I want to promote the hotel and its business and there other accomodation.  
+The best way to do this was by making a beter overview and layouts. Placing more pictures.  
+Creating a comfortable homepage what is warm welcome for the reader. The ease of making a reservation on the website makes is more atractive for guest to make a reservation.  
+By seeing what the hotel has more to offer in there accomodation, seeing the inside of the hotel, restaurant, casino and pool makes it more interesting to see it.   
+Knowing more about there services is a good promotion for the business.  
+And making the website mobile first approach, so that people can look it up on there phone, that is what attracts people to keep looking at the website.  
 
 ## 
 **A list of User Stories**
@@ -41,8 +43,8 @@ And making the website mobile first approach, so that people can look it up on t
 
 ## 
 **How did my project come to real website.**
-All what I have done, has been done by head. Trial and error.
-So it made a lot of websites and started all over again.
+
+It was a lot by trial and error, but i also made some [sketches](../wireframe)
 
 ## 
 **Features**
@@ -68,58 +70,72 @@ So it made a lot of websites and started all over again.
 
 ## 
 **Used  languages, frameworks, libraries, and any other tools**
+
 ### 
 __HTML__
+
 The project uses HTML for the page layout, navbar, header, main and footer
 ### 
 __CSS__
-The porject uses CSS for styling the HTML and sizing of components in the HTML
+
+The project uses CSS for styling the HTML and sizing of components in the HTML
 ### 
 __BOOTSTRAP__
+
 The bootstrap is used for the diferent sections of the HTML.
 
 ##
 **Testing the project.**
+
 * I have sended the website to different people, to test all the buttons.
 * I used the validator a lot to test the website. 
 
 ###
 **Footer on all pages:**
+
 The links to social media all are working.
 
 ###
 **Contact form:**
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
+
+Go to the "Contact Us" page.
+
+Try to submit the empty form and verify that an error message about the required fields appears.
+Try to submit the form with an invalid email address and verify that a relevant error message appears.
 Try to submit the form with all inputs valid and verify that a success message appears.
 
 ###
 **different browsers and screen sizes.**
+
 I have tested it on a iphone 8, 7 and 5, in chrome, firefox and opera. It all looks good and when rotating the screen, the website turns as I should be.
 
 ###
 **Bugs or problems during testing.**
+
 Navbar wasn’t responsive, colums were to broad. It didn’t move when I resized the page
  Texst layout wasn’t aligned, so the text didn’t stay where it should be.
 Header photo, was moving up and down as I scrolled. Didn’t stay on top.
 
 ##
-**Deployment.**
+**Deployment**
+
 I only used Github,  to save files, and so others could see my project and test it for me.
 
 ##
-**Credits.**
-Content
+**Credits**
+
+Content.
 For the welcome page and for the contact page [setupmyhotel](https://setupmyhotel.com/formats/fo/713-pre-arrival-letter-format.html)
 For the hotel and fusion I used the text of the website of current website.
 
 ##
-**Media.**
+**Media**
+
 I got the video add's from youtube.com  and the code for them.
 The photos used in this site were obtained from pexels.com
 The main page photo is of the hotel itself
 
 ##
-**Acknowledgements.**
+**Acknowledgements**
+
 I received inspiration for this project by looking at the current website and talking to the hotel manager and my mentor Aaron.
