@@ -44,7 +44,7 @@ And making the website mobile first approach, so that people can look it up on t
 ## 
 **How did my project come to real website.**
 
-It was a lot by trial and error, but i also made some [sketches](../wireframe)
+It was a lot by trial and error, but i also made some sketches. the sketches can be find in the wireframe map.
 
 ## 
 **Features**
